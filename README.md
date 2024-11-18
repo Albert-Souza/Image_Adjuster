@@ -24,3 +24,9 @@ You can install the required dependencies using `pip`:
 ```bash
 pip install PyQt5 numpy scikit-image
 ```
+
+## Usage
+
+```bash
+python image_adjuster.py example_image.png
+```
